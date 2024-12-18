@@ -1,0 +1,16 @@
+{
+  "name": "playwright-results-to-cvs",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@json2csv/plainjs": "^7.0.6",
+    "@json2csv/transforms": "^7.0.6"
+  }
+}
